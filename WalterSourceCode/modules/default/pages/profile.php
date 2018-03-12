@@ -22,7 +22,7 @@
 
         <div class="box">
           <div class="head" style="height:50px;">
-            <lable > Korisnički podaci</lable>
+            <lable > Korisnički podaci TEST</lable>
 						<div class="box-head-btn">
 
 							<a href="#" class="ion-ios-arrow-up" data-widget="collapse" data-id="c1a"></a>
